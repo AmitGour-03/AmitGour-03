@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Amit Gour!<br><br>I'm curious and passionate about "Applied Artificial Intelligence and its core" and love to explore how to solve real-world problem statements using this.<br><br>Currently working on Machine Vision research based project as an AI-Intern @ Orica (India).
+Hi there, I'm Amit Gour!<br><br>I'm curious and passionate about "Applied Artificial Intelligence" and love to explore how to solve real-world problem statements using this.<br><br>
 
 
 # 💻 Tech Stack:
