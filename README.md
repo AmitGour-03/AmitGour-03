@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I'm Amit Gour!<br><br>I'm curious and passionate about "Applied Artificial Intelligence" and love to explore how to solve real-world problem statements using this.<br><br>
+Hi, I'm Amit Gour!<br><br>I'm curious and passionate about "Applied Artificial Intelligence" and love to explore how to solve real-world problem statements using this.<br><br>
 
 
 # Tech Stack:
