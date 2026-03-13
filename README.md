@@ -12,7 +12,7 @@ Hi, I'm Amit Gour!<br><br>I'm curious and passionate about "Applied Artificial I
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=flat&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
